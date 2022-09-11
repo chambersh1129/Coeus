@@ -1,0 +1,7 @@
+.mypy_cache
+.pre-commit-config.yaml
+.git
+.gitignore
+static/
+nltk/
+venv/

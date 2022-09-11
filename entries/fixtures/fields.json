@@ -1,0 +1,290 @@
+[
+  {
+    "model": "entries.field",
+    "pk": "Algebra",
+    "fields": {
+      "subject": "Mathematics",
+      "description": "A type of mathematics in which letters and symbols are used to represent quantities"
+    }
+  },
+  {
+    "model": "entries.field",
+    "pk": "Anatomy",
+    "fields": {
+      "subject": "Science",
+      "description": "The study of the human body"
+    }
+  },
+  {
+    "model": "entries.field",
+    "pk": "Archeology",
+    "fields": {
+      "subject": "Science",
+      "description": "The study of people and fossils from the past"
+    }
+  },
+  {
+    "model": "entries.field",
+    "pk": "Arithmetic",
+    "fields": {
+      "subject": "Mathematics",
+      "description": "The study of numbers"
+    }
+  },
+  {
+    "model": "entries.field",
+    "pk": "Art",
+    "fields": {
+      "subject": "Arts",
+      "description": "The creation of visual, auditory, or performance works"
+    }
+  },
+  {
+    "model": "entries.field",
+    "pk": "Astronomy",
+    "fields": {
+      "subject": "Science",
+      "description": "The study of space"
+    }
+  },
+  {
+    "model": "entries.field",
+    "pk": "Biology",
+    "fields": {
+      "subject": "Science",
+      "description": "The study of all living organisms"
+    }
+  },
+  {
+    "model": "entries.field",
+    "pk": "Botany",
+    "fields": {
+      "subject": "Science",
+      "description": "The study of plants"
+    }
+  },
+  {
+    "model": "entries.field",
+    "pk": "Chemistry",
+    "fields": {
+      "subject": "Science",
+      "description": "The study of substances and the different ways in which they react or combine with other substances"
+    }
+  },
+  {
+    "model": "entries.field",
+    "pk": "Coding",
+    "fields": {
+      "subject": "Technology",
+      "description": "The instructions of a computer program"
+    }
+  },
+  {
+    "model": "entries.field",
+    "pk": "Computing",
+    "fields": {
+      "subject": "Technology",
+      "description": "The use or operation of computers"
+    }
+  },
+  {
+    "model": "entries.field",
+    "pk": "Culture",
+    "fields": {
+      "subject": "Social Studies",
+      "description": "The arts, beliefs, customs, institutions, and other products of human work and thought considered as a unit, especially with regard to a particular time or social group"
+    }
+  },
+  {
+    "model": "entries.field",
+    "pk": "Economics",
+    "fields": {
+      "subject": "Social Studies",
+      "description": "The branch of knowledge concerned with the production, consumption, and transfer of wealth"
+    }
+  },
+  {
+    "model": "entries.field",
+    "pk": "Geography",
+    "fields": {
+      "subject": "Social Studies",
+      "description": "The study of earth"
+    }
+  },
+  {
+    "model": "entries.field",
+    "pk": "Geometry",
+    "fields": {
+      "subject": "Mathematics",
+      "description": "A type of mathematics in which the measurements and relationships of lines, angles, surfaces and solids"
+    }
+  },
+  {
+    "model": "entries.field",
+    "pk": "History",
+    "fields": {
+      "subject": "Social Studies",
+      "description": "The study of past events"
+    }
+  },
+  {
+    "model": "entries.field",
+    "pk": "Internet",
+    "fields": {
+      "subject": "Technology",
+      "description": "An electronic communications network that connects computer networks and organizational computer facilities around the world."
+    }
+  },
+  {
+    "model": "entries.field",
+    "pk": "Literature",
+    "fields": {
+      "subject": "Language Arts",
+      "description": "Written works, especially those considered of superior or lasting artistic merit"
+    }
+  },
+  {
+    "model": "entries.field",
+    "pk": "Marine Biology",
+    "fields": {
+      "subject": "Science",
+      "description": "The study of sea and water organisms"
+    }
+  },
+  {
+    "model": "entries.field",
+    "pk": "Meteorology",
+    "fields": {
+      "subject": "Science",
+      "description": "The study of weather"
+    }
+  },
+  {
+    "model": "entries.field",
+    "pk": "Miscellaneous",
+    "fields": {
+      "subject": "Miscellaneous",
+      "description": "Unclassified"
+    }
+  },
+  {
+    "model": "entries.field",
+    "pk": "Movies",
+    "fields": {
+      "subject": "Arts",
+      "description": "A recording of moving images that tells a story and that people watch on a screen or television"
+    }
+  },
+  {
+    "model": "entries.field",
+    "pk": "Music",
+    "fields": {
+      "subject": "Arts",
+      "description": "The creation of auditory works"
+    }
+  },
+  {
+    "model": "entries.field",
+    "pk": "Nutrition",
+    "fields": {
+      "subject": "Health",
+      "description": "The sum of the processes by which an animal or plant takes in and utilizes food substances"
+    }
+  },
+  {
+    "model": "entries.field",
+    "pk": "Paleontology",
+    "fields": {
+      "subject": "Science",
+      "description": "The study of dinosaurs"
+    }
+  },
+  {
+    "model": "entries.field",
+    "pk": "Philosophy",
+    "fields": {
+      "subject": "Social Studies",
+      "description": "The study of knowledge"
+    }
+  },
+  {
+    "model": "entries.field",
+    "pk": "Photography",
+    "fields": {
+      "subject": "Arts",
+      "description": "The art or practice of taking and processing photographs"
+    }
+  },
+  {
+    "model": "entries.field",
+    "pk": "Physics",
+    "fields": {
+      "subject": "Science",
+      "description": "The study of matter and energy and the effect they have"
+    }
+  },
+  {
+    "model": "entries.field",
+    "pk": "Psychology",
+    "fields": {
+      "subject": "Social Studies",
+      "description": "The study of the mind and behavior"
+    }
+  },
+  {
+    "model": "entries.field",
+    "pk": "Robotics",
+    "fields": {
+      "subject": "Technology",
+      "description": "The science or study of the technology associated with the design, fabrication, theory, and application of robots"
+    }
+  },
+  {
+    "model": "entries.field",
+    "pk": "Speech",
+    "fields": {
+      "subject": "Language Arts",
+      "description": "The expression of or the ability to express thoughts and feelings by articulate sounds"
+    }
+  },
+  {
+    "model": "entries.field",
+    "pk": "Sports",
+    "fields": {
+      "subject": "Health",
+      "description": "Physical activity"
+    }
+  },
+  {
+    "model": "entries.field",
+    "pk": "Statistics",
+    "fields": {
+      "subject": "Mathematics",
+      "description": "The collection, analysis, and interpretation of data"
+    }
+  },
+  {
+    "model": "entries.field",
+    "pk": "Video Games",
+    "fields": {
+      "subject": "Miscellaneous",
+      "description": "An electronic game in which players control images on a video screen"
+    }
+  },
+  {
+    "model": "entries.field",
+    "pk": "Writing",
+    "fields": {
+      "subject": "Language Arts",
+      "description": "The activity or occupation of composing text for publication"
+    }
+  },
+  {
+    "model": "entries.field",
+    "pk": "Zoology",
+    "fields": {
+      "subject": "Science",
+      "description": "The study of animals"
+    }
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "model": "entries.subject",
+    "pk": "Arts",
+    "fields": {
+      "description": "The product of imagination and creativity, particularly in a physical form"
+    }
+  },
+  {
+    "model": "entries.subject",
+    "pk": "Health",
+    "fields": {
+      "description": "Soundness, especially of body or mind; freedom from disease or abnormality"
+    }
+  },
+  {
+    "model": "entries.subject",
+    "pk": "Language Arts",
+    "fields": {
+      "description": "The study of grammar, composition, spelling, and (sometimes) public speaking"
+    }
+  },
+  {
+    "model": "entries.subject",
+    "pk": "Mathematics",
+    "fields": {
+      "description": "The study of numbers and shapes"
+    }
+  },
+  {
+    "model": "entries.subject",
+    "pk": "Miscellaneous",
+    "fields": {
+      "description": "Varied or mixed disciplines that cannot easily be categorized or grouped."
+    }
+  },
+  {
+    "model": "entries.subject",
+    "pk": "Science",
+    "fields": {
+      "description": "The study of the structure and behavior of the natural world based on facts"
+    }
+  },
+  {
+    "model": "entries.subject",
+    "pk": "Social Studies",
+    "fields": {
+      "description": "The study of history, people or society"
+    }
+  },
+  {
+    "model": "entries.subject",
+    "pk": "Technology",
+    "fields": {
+      "description": "Science or knowledge put into practical use to solve problems or invent useful tools"
+    }
+  }
+]

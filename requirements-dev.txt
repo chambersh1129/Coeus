@@ -1,0 +1,9 @@
+-r requirements.txt
+black
+coverage
+django-extensions
+flake8
+ipython
+isort
+pre-commit
+safety
