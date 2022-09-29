@@ -1,0 +1,24 @@
+<table id="coeus_table" class="display table table-striped table-bordered" style="width:100%">
+    <thead>
+        <tr>
+            <th>User</th>
+            <th>Subject</th>
+            <th>Field</th>
+            <th>Entry</th>
+            <th>Nouns</th>
+            <th>Date</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for entry in entries %}
+        <tr>
+            <td>{{ entry.user.username }}</td>
+            <td>{{ entry.field.subject }}</td>
+            <td>{{ entry.field }}</td>
+            <td>{{ entry.text }}</td>
+            <td>{{ entry.str_of_nouns }}</td>
+            <td>{{ entry.date }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
