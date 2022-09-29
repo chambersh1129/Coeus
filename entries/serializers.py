@@ -1,4 +1,5 @@
 from rest_framework import serializers
+from taggit.serializers import TaggitSerializer, TagListSerializerField
 
 from entries.models import Entry, Field, Subject
 
@@ -19,10 +20,11 @@ class SubjectSerializer(serializers.ModelSerializer):
         fields = "__all__"
 
 
-class EntrySerializer(serializers.ModelSerializer):
+class EntrySerializer(TaggitSerializer, serializers.ModelSerializer):
     user = serializers.CharField(source="user.username")
     subject = serializers.CharField(source="field.subject.name")
+    nouns = TagListSerializerField()
 
     class Meta:
         model = Entry
-        fields = ["id", "user", "subject", "field", "text", "nouns", "date"]
+        fields = "__all__"

@@ -52,6 +52,7 @@ INSTALLED_APPS = [
     "health_check.cache",
     "rest_framework",
     "rest_framework.authtoken",
+    "taggit",
     # custom apps
     "entries",
     "profiles",
@@ -163,3 +164,8 @@ STATICFILES_STORAGE = "whitenoise.storage.CompressedManifestStaticFilesStorage"
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
+
+# Taggit
+# https://django-taggit.readthedocs.io/en/latest/index.html
+
+TAGGIT_CASE_INSENSITIVE = True
