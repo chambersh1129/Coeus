@@ -1,0 +1,2224 @@
+[
+  {
+    "model": "entries.entry",
+    "pk": 1,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Cats are born blind and deaf",
+      "date": "2018-09-10T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 2,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Mother cats carry their kittens around in their mouth",
+      "date": "2018-09-10T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 3,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Sea turtles sometimes live under rocks",
+      "date": "2018-09-11T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 4,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "There are 7 kinds of sea turtles in the world",
+      "date": "2018-09-11T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 5,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Green sea turtles only eat plants and others eat crabs and shelfish",
+      "date": "2018-09-11T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 6,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Dogs have 42 teeth",
+      "date": "2018-09-12T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 7,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Dogs have between 319 and 321 bones",
+      "date": "2018-09-12T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 8,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Puppies are born blind and deaf.  They open their eyes and begin to hear around 2 weeks, but their hearing is not fully developed until around 2 months.",
+      "date": "2018-09-12T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 9,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Puppies are born into a litter",
+      "date": "2018-09-12T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 10,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Puppies spend about 14 hours a day sleeping",
+      "date": "2018-09-12T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 11,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Art",
+      "text": "Watched a video on how to draw Pokemon Porygon",
+      "date": "2018-09-13T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 12,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Art",
+      "text": "Watched a video on how to draw Pokemon Torchic",
+      "date": "2018-09-13T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 13,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Art",
+      "text": "Learned how to make stencils of objects with paper and crayons",
+      "date": "2018-09-13T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 14,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Meteorology",
+      "text": "Wind from tropical storms and hurricans are measured in miles per hour",
+      "date": "2018-09-14T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 15,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Meteorology",
+      "text": "Tropical storms can have wind speeds as high as 100 miles per hour",
+      "date": "2018-09-14T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 16,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Art",
+      "text": "Watched a video on how to draw Ben 10 alien accelerate",
+      "date": "2018-09-16T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 17,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Coding",
+      "text": "Made a Flappy Bird game in code.org",
+      "date": "2018-09-16T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 18,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Culture",
+      "text": "In China they have a cultural special holiday called Chinese New Year",
+      "date": "2018-09-18T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 19,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Culture",
+      "text": "In Brazil they have a cultural special holiday called Carnival",
+      "date": "2018-09-18T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 20,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Culture",
+      "text": "In Sweden they have a special cultural holiday called Mid-Summer",
+      "date": "2018-09-18T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 21,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Culture",
+      "text": "In Sweden, during certain times of the year, they sleep with sleep masks on because the Sun never sets",
+      "date": "2018-09-18T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 22,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Culture",
+      "text": "In Sweden, during the Mid-Summer celebration, Swedish people dance around a Maypole",
+      "date": "2018-09-18T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 23,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Geometry",
+      "text": "There are 360 degrees in a circle",
+      "date": "2018-09-21T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 24,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Arithmetic",
+      "text": "Practiced dividing the degrees of a circle to learn angles",
+      "date": "2018-09-21T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 25,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Coding",
+      "text": "Programming loops are lines of code that are run multiple times without writing them multiple times",
+      "date": "2018-09-21T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 26,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Coding",
+      "text": "Programming functions are blocks of code that can be referenced many times without writing the code out multiple times",
+      "date": "2018-09-21T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 27,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Coding",
+      "text": "Got more practice with programming while loops using code.org",
+      "date": "2018-09-23T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 28,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Coding",
+      "text": "Pacticed programming if/else statements using code.org",
+      "date": "2018-09-23T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 29,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "A tortoise lives their whole life on land",
+      "date": "2018-09-24T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 30,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Marine Biology",
+      "text": "Turtles mostly live in water, but some species occasionally come on land",
+      "date": "2018-09-24T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 31,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Marine Biology",
+      "text": "The temperature the eggs are kept at decides what sex the turtle will hatch into.  Warm eggs produce female turtles, cool eggs produce male",
+      "date": "2018-09-24T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 32,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Marine Biology",
+      "text": "Turtles have been on earth for over 200 million years.  They evolved before snakes, lizards, and crocodiles",
+      "date": "2018-09-24T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 33,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Marine Biology",
+      "text": "Turtles live on every continent except Antarctica.  Antarctica is too cold for reptiles",
+      "date": "2018-09-24T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 34,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Marine Biology",
+      "text": "Blandings turtles are the only turtles observed swimming under frozen lakes",
+      "date": "2018-09-24T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 35,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Marine Biology",
+      "text": "Some species of jellyfish are immortal, meaning they do not age or die of natural causes",
+      "date": "2018-09-24T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 36,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Marine Biology",
+      "text": "Some turtles can absorb oxygen through their shells and can even sleep underwater",
+      "date": "2018-09-24T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 37,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Marine Biology",
+      "text": "An alligator snapping turtle can be over 200 pounds.  They eat fish, snakes, frogs, and other turtles",
+      "date": "2018-09-24T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 38,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Astronomy",
+      "text": "A satellite is something that orbits, or goes around, a planet",
+      "date": "2018-09-26T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 39,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Astronomy",
+      "text": "The Moon is an example of a satellite, it orbits Earth",
+      "date": "2018-09-26T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 40,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Astronomy",
+      "text": "Man-made satellites have computers and usually have solar panels to power it",
+      "date": "2018-09-26T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 41,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Astronomy",
+      "text": "The biggest man-made satellite is the International Space Station.  Astronauts live on there for 6 months at a time orbiting Earth",
+      "date": "2018-09-26T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 42,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Astronomy",
+      "text": "Satellites are made to take pictures, track the weather, transmit television and internet signals, and provide directions to drive or walk somewhere",
+      "date": "2018-09-26T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 43,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Geography",
+      "text": "Scientists measure the ocean floor with sound waves",
+      "date": "2018-09-29T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 44,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Geography",
+      "text": "There are trenches, mountains, and even volcanoes underwater",
+      "date": "2018-09-29T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 45,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Meteorology",
+      "text": "Waves are caused by wind",
+      "date": "2018-09-29T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 46,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Meteorology",
+      "text": "Tsunamis are large waves caused by earthquakes or underwater volcanic eruptions",
+      "date": "2018-09-29T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 47,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Meteorology",
+      "text": "The highest point of a wave is the crest, the lowest is the trough",
+      "date": "2018-09-29T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 48,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Meteorology",
+      "text": "There are 5 types of clouds:  Cirrus, Stratus, Stratocumulus, Cumulus, and Cumuloniumbus",
+      "date": "2018-10-04T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 49,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Meteorology",
+      "text": "The water cycle is a process that circulates water through the atmosphere.  Water on the Earth evaporates and turns to invisiable vapor to go into the sky.  It forms into clouds and returns to Earth in the form of rain or snow.",
+      "date": "2018-10-04T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 50,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "The top 5 fastest animals on Earth are all birds",
+      "date": "2018-10-06T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 51,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Cheetah claws never retract",
+      "date": "2018-10-06T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 52,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Peregrine Falcon is the fastest animal on Earth at 242 MPH",
+      "date": "2018-10-06T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 53,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Golden Eagles are the second fastest animals at 200 MPH",
+      "date": "2018-10-06T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 54,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Cats are both predators to smaller animals and prey to larger predators",
+      "date": "2018-10-06T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 55,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Some people believe cats purr to help regenerate muscle tissue.  This may be done based on the pitch of the purr",
+      "date": "2018-10-06T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 56,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Astronomy",
+      "text": "Galaxies are made of stars and dust",
+      "date": "2018-10-10T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 57,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Astronomy",
+      "text": "A light year is how far light can travel in one year",
+      "date": "2018-10-10T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 58,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Lemurs purr to show affection",
+      "date": "2018-10-21T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 59,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Female lemurs are dominant over makes, having a matriarchal society",
+      "date": "2018-10-21T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 60,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Penguins are very good surfers",
+      "date": "2018-10-21T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 61,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Penguins rub oil on their feathers to keep then water resistant",
+      "date": "2018-10-21T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 62,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Koala's have 2 thumbs and 3 fingers",
+      "date": "2018-10-21T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 63,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Turtles have been on earth for over 60 million years",
+      "date": "2018-10-22T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 64,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Marine Biology",
+      "text": "Banded sea snakes live in earth ocean water",
+      "date": "2018-10-22T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 65,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Marine Biology",
+      "text": "Banded sea snakes can grow to be 10 feet long",
+      "date": "2018-10-22T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 66,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Marine Biology",
+      "text": "There are more than 40 species of dolphin on earth",
+      "date": "2018-10-28T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 67,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Marine Biology",
+      "text": "Dolphins are carnivores",
+      "date": "2018-10-28T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 68,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Marine Biology",
+      "text": "Dolphins can jump 20 feet out of the water",
+      "date": "2018-10-28T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 69,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Robotics",
+      "text": "The word robot comes form a Czech word meaning worker",
+      "date": "2018-10-28T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 70,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Robotics",
+      "text": "The central processing unit is the part of a computer that carries out the instructions of a computer program",
+      "date": "2018-10-30T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 71,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Robotics",
+      "text": "Mechanical devices called actuators make robots move",
+      "date": "2018-10-30T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 72,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Robotics",
+      "text": "An end effector is a tool attached to the end of a robotic arm",
+      "date": "2018-10-30T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 73,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Robotics",
+      "text": "Infrared light relates to light waves in the electromagnetic spectrum between visible light and microwaves",
+      "date": "2018-10-30T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 74,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Robotics",
+      "text": "Ultrasound is sound that is too high for humans to hear",
+      "date": "2018-10-30T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 75,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Owl's eyes are as big as human eyes, but dialate much more so they can see better at night",
+      "date": "2018-11-03T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 76,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Vultures are not predators, they are scavengers.  Scavengers do not hunt, they eat leftover food from other predators and dead animals",
+      "date": "2018-11-03T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 77,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Vultures have weak claws and a dull beak.  The protect themselves by throwing up on potential predators",
+      "date": "2018-11-03T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 78,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "The stomach acid of vultures can break down bacteria much better than humans, allowing them to eat food that would make humans sick",
+      "date": "2018-11-03T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 79,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Robotics",
+      "text": "Robotic arms are used to twist caps onto peanut butter jars and to test baseball bats",
+      "date": "2018-11-05T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 80,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Robotics",
+      "text": "Robot arms can even be found in some hospital operating rooms. The da Vinci surgical system helps surgeons perform difficult heart surgeries",
+      "date": "2018-11-05T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 81,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Robotics",
+      "text": "Autonomous robots are not operated remotely by a person",
+      "date": "2018-11-05T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 82,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Robotics",
+      "text": "Google had a fleet of self driving robotic Toyota Priuses that's have traveled almost 200,000 miles with little help from humans riding along",
+      "date": "2018-11-05T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 83,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Robotics",
+      "text": "To make a robot look more human, some roboticists cover the robots metal skull with rubber. This plastic substance is very stretchy and gives the robot more real looking skin",
+      "date": "2018-11-05T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 84,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Culture",
+      "text": "Chinese New Year is the most import time of the year for Chinese culture",
+      "date": "2018-11-13T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 85,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Culture",
+      "text": "Chinese New Year lasts for 15 days",
+      "date": "2018-11-13T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 86,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Culture",
+      "text": "The Chinese Zodiac consists of 12 animals, each animal is associated with a year",
+      "date": "2018-11-13T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 87,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Culture",
+      "text": "Aiden was born in the year of the dragon, 2012 being associated with the water dragon",
+      "date": "2018-11-13T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 88,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Culture",
+      "text": "During Chinese New Year, egg rolls symbolise wealth because they look like gold bars",
+      "date": "2018-11-13T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 89,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Culture",
+      "text": "During Chinese New Year, shrimp symbolise happiness because the Mandarin word for shrimp and happiness are very similar",
+      "date": "2018-11-13T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 90,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Snakes hibernate in warm places over winter",
+      "date": "2018-11-15T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 91,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Marine Biology",
+      "text": "Whale sharks are sharks but can speak like whales",
+      "date": "2018-11-15T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 92,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Marine Biology",
+      "text": "Not all fish have scales, examples are shellfish, catfish, and swordfish",
+      "date": "2018-11-15T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 93,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Marine Biology",
+      "text": "All octopus have poison glands, though most are not poisinous enough to harm humans",
+      "date": "2018-11-19T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 94,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Marine Biology",
+      "text": "Octopus blood is blue",
+      "date": "2018-11-19T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 95,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Marine Biology",
+      "text": "Octopus can smell through their arms",
+      "date": "2018-11-19T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 96,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Marine Biology",
+      "text": "Octopus can regrow their arms",
+      "date": "2018-11-19T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 97,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Chihuahuan hook nosed snakes can fart so aggressively that thye lift themselves off the ground",
+      "date": "2018-11-24T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 98,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Physics",
+      "text": "Density is how many atoms are in something, or how much stuff they are made up of.  Less dense objects or liquids will float on more dense objects or liquids",
+      "date": "2018-11-24T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 99,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Deer can run 35 miles per hour",
+      "date": "2018-11-25T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 100,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Deer can jump over an 8 foot fence",
+      "date": "2018-11-25T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 101,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Deer can smell 100 times better than humans",
+      "date": "2018-11-25T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 102,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Male deer are called bucks and grow antlers",
+      "date": "2018-11-25T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 103,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Overpopulate means there are too many of one time of animal to be sustainded by the resources in the ecosystem.  It can lead to food shortages for the animal or have an impact on other animals in the ecosystem.",
+      "date": "2018-11-25T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 104,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Computing",
+      "text": "Computers an get viruses and get sick like humans",
+      "date": "2018-11-27T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 105,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "When a mother penguin lays an egg, the father takes care of it by keeping it warm while the mother feeds",
+      "date": "2018-11-29T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 106,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "An emperor penguin is the biggest penguin on Earth",
+      "date": "2018-11-29T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 107,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Emperor penguins can grow to be 4 feet tall",
+      "date": "2018-11-29T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 108,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Marine Biology",
+      "text": "Sea horses sleep with their eyes open",
+      "date": "2018-12-03T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 109,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Marine Biology",
+      "text": "Sea horses attach their tail to something like coral or rocks while sleeping to keep themselves from floating away",
+      "date": "2018-12-03T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 110,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Botany",
+      "text": "Tomatoes are a fruit",
+      "date": "2018-12-03T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 111,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Art",
+      "text": "When you mix grey and another color you get a tint",
+      "date": "2018-12-04T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 112,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Marine Biology",
+      "text": "Sharks have lived on Earth since before the dinosaurs",
+      "date": "2018-12-05T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 113,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Marine Biology",
+      "text": "Sharks have a good sense of smell",
+      "date": "2018-12-05T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 114,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Marine Biology",
+      "text": "Shark skeletons are made of cartlage",
+      "date": "2018-12-05T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 115,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Marine Biology",
+      "text": "Sharks can see well in the dark",
+      "date": "2018-12-05T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 116,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Marine Biology",
+      "text": "Sharks can sense other animals",
+      "date": "2018-12-05T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 117,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Miscellaneous",
+      "text": "A service is the action of helping or doing work for someone else",
+      "date": "2019-01-28T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 118,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Miscellaneous",
+      "text": "Goods are merchendise or possessions that can be bought or sold",
+      "date": "2019-01-28T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 119,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "A hippopotamus can poop so much that fish can die because the bacteria in the poop absorbs the oxygen from the water and the fish can't breath",
+      "date": "2019-01-29T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 120,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "After the elephant and the rhinocerous, hippopotamuses are the third largest land mammal",
+      "date": "2019-01-29T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 121,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "There are over 2000 species of gecko",
+      "date": "2019-01-29T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 122,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Marine Biology",
+      "text": "Dolphins are considered to be the most intelligent animals on Earth after humans",
+      "date": "2019-01-29T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 123,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Geography",
+      "text": "The largest lake in the world is the Caspian Sea",
+      "date": "2019-01-30T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 124,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Geography",
+      "text": "The longest river in the world is the Amazon river.  It is believed to just be 100 miles longer than the Nile river",
+      "date": "2019-01-30T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 125,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Video Games",
+      "text": "The rarest Pokemon card in the world is the \"Pikachu Illustrator\" card.  Only 20-30 exist.  They were given as prizes and are estimated to be worth $54,000",
+      "date": "2019-01-30T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 126,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Dragonflies can change their color over time",
+      "date": "2019-02-04T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 127,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Dragonflies lay eggs in ponds",
+      "date": "2019-02-04T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 128,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Dragonflies have the biggest eyes of insects",
+      "date": "2019-02-04T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 129,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Dragonflies are the fastest insects",
+      "date": "2019-02-04T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 130,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Miscellaneous",
+      "text": "A caption is a short sentance found under a picture that describes the picture",
+      "date": "2019-02-05T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 131,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Miscellaneous",
+      "text": "An index is an alphabetical list of topics and their page numbers",
+      "date": "2019-02-05T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 132,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Miscellaneous",
+      "text": "A glossary is an alphabetical list of terms and their definition",
+      "date": "2019-02-05T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 133,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Each tiger has a unique stripe pattern, similar to a fingerprint",
+      "date": "2019-02-12T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 134,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "The roar of a tiger can be heard as far as 2 miles away",
+      "date": "2019-02-12T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 135,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "At full speed, a tiger can reach around 40 miles per hour",
+      "date": "2019-02-12T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 136,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Tigers can jump up to 30 feet in a single leap",
+      "date": "2019-02-12T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 137,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "A full grown tiger's tail can be 3 feet long and helps them keep their balance",
+      "date": "2019-02-12T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 138,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "A tiger can eat more than 60 pounds of meat in a single meal",
+      "date": "2019-02-12T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 139,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Pandas are omnivores but most of their diet consists of bamboo",
+      "date": "2019-02-17T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 140,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Pandas eat 20-30 pounds of bamboo a day",
+      "date": "2019-02-17T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 141,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Pandas poop up to 40 times a day",
+      "date": "2019-02-17T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 142,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "A panda cub begins to crawl at 75-80 days and at 1 year weigh 100 pounds",
+      "date": "2019-02-17T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 143,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Pandas have 5 fingers and a thumb",
+      "date": "2019-02-17T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 144,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Baby korat cats are born with amber or yellow eyes, but fully grown have green eyes",
+      "date": "2019-02-18T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 145,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "A healthy cat will live 14-16 years",
+      "date": "2019-02-18T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 146,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Cats need to be groomed.  They groom themselves by licking themselves, or they can be groomed with a rubber brush to get rid of loose hair.",
+      "date": "2019-02-18T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 147,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Amphibians, fish, insects, and mammals are all kinds of animals",
+      "date": "2019-02-27T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 148,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Frogs are amphibians",
+      "date": "2019-02-27T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 149,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Marine Biology",
+      "text": "Orcas cannot smell",
+      "date": "2019-02-27T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 150,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Marine Biology",
+      "text": "Ocras grab their enemies to prevent them from moving.  They have been known to flip sharks over to put them to sleep",
+      "date": "2019-02-27T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 151,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Marine Biology",
+      "text": "Orcas are carnivores",
+      "date": "2019-02-27T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 152,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Marine Biology",
+      "text": "A group of orcas is called a pod, a group of pods make a clan.  Pods can also be divided into sub-pods",
+      "date": "2019-02-27T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 153,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Marine Biology",
+      "text": "Orcas cannot completely go to sleep because they have to go to the surface of the water to breath.  Only half of their brain sleeps at a time and they leave 1 eye open at a time.",
+      "date": "2019-02-27T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 154,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Geography",
+      "text": "Washington, DC is the capitol of our country, the United States of America",
+      "date": "2019-03-04T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 155,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Geography",
+      "text": "Raleigh is the capital of North Carolina",
+      "date": "2019-03-04T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 156,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Writing",
+      "text": "An author tries to pie their readers: persuade, inform, or entertain",
+      "date": "2019-03-06T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 157,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Miscellaneous",
+      "text": "To persuade someone is to try to convice someone to agree with you",
+      "date": "2019-03-06T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 158,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Miscellaneous",
+      "text": "To inform someone is to give someon facts",
+      "date": "2019-03-06T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 159,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Miscellaneous",
+      "text": "To entertain someone is to occupy their time in a positive way",
+      "date": "2019-03-06T05:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 160,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Astronomy",
+      "text": "Most asteroids are not large enough to have the gravite to make themselves round",
+      "date": "2019-05-20T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 161,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Astronomy",
+      "text": "Asteroids are leftover pieces from when the solar system was formed",
+      "date": "2019-05-20T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 162,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Astronomy",
+      "text": "Sometimes asteroids enter Earth's atmosphere",
+      "date": "2019-05-20T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 163,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Owls don't have eye balls.  Their eyes are long and shaped like a tube",
+      "date": "2019-05-22T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 164,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "When roosters open their beak fully their external auditory canals completely close.  This helps prevent them from damaging their ears when they crow.",
+      "date": "2019-05-22T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 165,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Geography",
+      "text": "Beaches can come in many different colors such as: white, grey, gold-yellow, brown, red, and black",
+      "date": "2019-05-27T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 166,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "The original word for bear is lost.  In the middle ages people were superstitious and believed saying the word would summon one.  Bear means \"the brown one\"",
+      "date": "2019-05-28T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 167,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Black howler monkeys are actuall different colors based on sex.  Males are black and females are blonde.",
+      "date": "2019-06-04T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 168,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Astronomy",
+      "text": "The sun is a medium sized star",
+      "date": "2019-06-05T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 169,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Astronomy",
+      "text": "The moon orbites the Earth",
+      "date": "2019-06-05T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 170,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Astronomy",
+      "text": "An acronym to learn the order of the planets from the Sun is \"My Very Excited Mom Just Served Us Nachos\".  Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune",
+      "date": "2019-06-05T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 171,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Astronomy",
+      "text": "It takes 24 hours for the Earth to rotate once on its axis",
+      "date": "2019-06-05T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 172,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Astronomy",
+      "text": "It takes 365 days for the Earth to rotate around the Sun",
+      "date": "2019-06-05T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 173,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Astronomy",
+      "text": "Jupiter has 79 known moons",
+      "date": "2019-06-05T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 174,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Alligator teeth are strong enough to crack turtle shells",
+      "date": "2019-06-07T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 175,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Crocodile babies weight less than 1 pound",
+      "date": "2019-06-07T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 176,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Geckos are named for the gecko sound they make",
+      "date": "2019-06-07T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 177,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Many geckos use their tongues to clean their eyes",
+      "date": "2019-06-07T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 178,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "Komodo dragons are the world's largest lizards",
+      "date": "2019-06-07T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 179,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Astronomy",
+      "text": "The Sun's gravity keeps the solar system together",
+      "date": "2019-06-10T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 180,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Astronomy",
+      "text": "Mercury facing the Sun is twice as hot as a kitchen oven",
+      "date": "2019-06-10T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 181,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Astronomy",
+      "text": "The dark side of Mercury is 3 times colder than Antarctica in winter",
+      "date": "2019-06-10T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 182,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Astronomy",
+      "text": "Venus is nearly as large as the Earth",
+      "date": "2019-06-10T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 183,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Astronomy",
+      "text": "Venus is always covered in white clouds made of tiny drop of acid",
+      "date": "2019-06-10T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 184,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Astronomy",
+      "text": "Venus is made of rock that comes from volcanoes",
+      "date": "2019-06-10T04:00:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 185,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Zoology",
+      "text": "A baby snake is called a snakeling or hatchling",
+      "date": "2019-06-24T19:22:55Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 186,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Marine Biology",
+      "text": "Prickleback fish are a kind of fish that are often mistaken for eels",
+      "date": "2019-07-02T19:03:53Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 187,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Paleontology",
+      "text": "The frill of the Styracosaurus might have helped to release heat from its body, like elephant's ears do",
+      "date": "2019-07-03T15:58:49Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 188,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Paleontology",
+      "text": "Maiasaura grew very fast.  They reached adult size by the time they were five years old",
+      "date": "2019-07-03T16:02:21Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 189,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Paleontology",
+      "text": "Stygimoloch dinosaurs were originally thought to have butted their heads during fights.  After more studies, it is now believed they rammed into each other's sides.",
+      "date": "2019-07-03T16:05:18Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 190,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Paleontology",
+      "text": "Leptoceratops belongs to a group of dinosaurs called ceratopians.",
+      "date": "2019-07-03T16:07:47Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 191,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Paleontology",
+      "text": "Ceratopians are generally considered to be herd animals because bone beds have been found with the remains of many individuals of varying ages",
+      "date": "2019-07-03T16:09:01Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 192,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Paleontology",
+      "text": "Albertosaurus is in the same family as tyrannosaurus Rex",
+      "date": "2019-07-03T16:11:37Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 193,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Astronomy",
+      "text": "Over the course of six Apollo missions 96 bags of waste for left behind.",
+      "date": "2019-07-03T17:09:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 194,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Botany",
+      "text": "If ripening cherries are not dried after it rains, they will soak up the water, split, and can't be picked and sold.",
+      "date": "2019-07-05T13:45:55Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 195,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Botany",
+      "text": "Helicopters slowly maneuver 5 feet over cherry trees after it rains to dry them off.  This is part of the reason why cherries are expensive compared to other fruits.",
+      "date": "2019-07-07T14:57:04Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 196,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Astronomy",
+      "text": "Astronauts have waste bags, called jettison bags, they use during space flights.  They included everything from food wrappers to containers of human waste.",
+      "date": "2019-07-03T17:09:00Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 197,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Arithmetic",
+      "text": "Learned how to add large numbers using the expanding 10's method.",
+      "date": "2019-09-12T23:13:16Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 198,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Arithmetic",
+      "text": "Learned how to add large numbers using the quick 10's and 1's method",
+      "date": "2019-09-12T23:14:14Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 199,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Chemistry",
+      "text": "Gases have weight just like solids",
+      "date": "2019-10-22T20:55:51Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 200,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Archeology",
+      "text": "Fossils can be made from tree resin",
+      "date": "2019-11-08T22:28:59Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 201,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Physics",
+      "text": "Sounds travels 1,146 get per second",
+      "date": "2019-12-13T01:06:24Z"
+    }
+  },
+  {
+    "model": "entries.entry",
+    "pk": 202,
+    "fields": {
+      "user": 2,
+      "public": true,
+      "field": "Biology",
+      "text": "There are three tiny bones in your ear: the malleus, the incus, and the stapes.",
+      "date": "2019-12-13T01:08:21Z"
+    }
+  }
+]
